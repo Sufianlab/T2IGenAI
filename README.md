@@ -1,6 +1,6 @@
 # T2IGenAI
 
-[Sample Doctor.pdf](https://github.com/user-attachments/files/23541151/Sample.Doctor.pdf)
+![Sample Doctor](https://github.com/user-attachments/assets/4383de3e-2675-45dd-af26-dec6e51ee88d)
 
 
 Generated Dataset: https://drive.google.com/file/d/1gQkKor-4dtKx9tJWf7z3N753ETY759bA/view?usp=drive_link
