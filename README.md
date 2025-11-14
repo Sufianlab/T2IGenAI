@@ -1,6 +1,7 @@
 # T2IGenAI
 
-![Sample Doctor](https://github.com/user-attachments/assets/4383de3e-2675-45dd-af26-dec6e51ee88d)
+<img width="735" height="319" alt="Sample Doctor" src="https://github.com/user-attachments/assets/63d70035-bdf8-4bbd-9c16-3f8d6e10fd9f" />
+
 
 
 Generated Dataset: https://drive.google.com/file/d/1gQkKor-4dtKx9tJWf7z3N753ETY759bA/view?usp=drive_link
