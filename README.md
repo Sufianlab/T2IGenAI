@@ -3,6 +3,10 @@ The model are uploaded. If you want use it, you have to generate your own Huggin
 
 Generated Dataset: https://drive.google.com/file/d/1gQkKor-4dtKx9tJWf7z3N753ETY759bA/view?usp=drive_link
 
+Sample Data Generation: 
+<img width="735" height="319" alt="Sample Doctor" src="https://github.com/user-attachments/assets/1d45550f-9061-4e03-b759-168ca69462f6" />
+
+
 ---
 
 ## Repository summary
