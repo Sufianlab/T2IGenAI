@@ -8,7 +8,7 @@
 
 Generated Dataset: https://drive.google.com/file/d/1gQkKor-4dtKx9tJWf7z3N753ETY759bA/view?usp=drive_link
 
-The models are uploaded. If you wantto  use it, you have to generate your own Hugging Face tokens and insert them at the appropriate place in the code file. 
+The models are uploaded. If you want to use those, you have to generate your own Hugging Face tokens and insert them at the appropriate place in the code files. 
 ---
 
 ## Repository summary
