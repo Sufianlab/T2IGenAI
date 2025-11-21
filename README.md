@@ -3,18 +3,19 @@
 <img width="735" height="319" alt="Sample Doctor" src="https://github.com/user-attachments/assets/63d70035-bdf8-4bbd-9c16-3f8d6e10fd9f" />
 
 
+<img width="719" height="322" alt="Sample_Politician" src="https://github.com/user-attachments/assets/86dc4dcd-46da-4fc3-b0aa-c308e41ce06f" />
 
 
 Generated Dataset: https://drive.google.com/file/d/1gQkKor-4dtKx9tJWf7z3N753ETY759bA/view?usp=drive_link
 
-The model are uploaded. If you want use it, you have to generate your own Hugging Face tokens, and insert at the aprropriate place in the code file. 
+The models are uploaded. If you wantto  use it, you have to generate your own Hugging Face tokens and insert them at the appropriate place in the code file. 
 ---
 
 ## Repository summary
 
-This repository contains the code, notebooks, and supporting materials used to (1) Images from multiple open-source text-to-image models using a fixed prompt set, (2) post-process and filter generated images, (3) automatically and manually infer perceived demographic attributes, and (4) compute and visualize bias metrics across professions and models.
+This repository contains the code, notebooks, and supporting materials used to (1) generate Images from multiple open-source text-to-image models using a fixed prompt set, (2) post-process and filter generated images, (3) automatically and manually infer perceived demographic attributes, and (4) compute and visualize bias metrics across professions and models.
 
-The uploaded notebooks each contain code to generate images from one pretrained text-to-image model using operations in the model's latent/feature space. Together they produce the experiment set described in the paper.
+The uploaded notebooks each contain code to generate images from one pretrained text-to-image model using operations in the model's latent/feature space. Together, they produce the experiment set described in the paper.
 
 ---
 
@@ -136,7 +137,7 @@ For publication-quality reproducibility include:
 - Exact model checkpoints, commit hashes, and sampling code.
 - Random seeds and full sampling hyperparameters.
 - Annotator demographics and annotation instructions.
-- All code required to reproduce analyses in a requirements.txt and environment specification (e.g., conda env.yml).
+- All code required to reproduce analyses is in a requirements.txt and environment specification (e.g., conda env.yml).
 - A small-scale deterministic example (e.g., 10 images per prompt with fixed seeds) for quick verification.
 
 ---
@@ -152,7 +153,7 @@ For publication-quality reproducibility include:
 
 ## Citation
 
-If you use this repository or data please cite our reposotry. 
+If you use this repository or data, please cite our repository. 
 
 
 ## License
